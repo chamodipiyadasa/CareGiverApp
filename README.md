@@ -1,6 +1,8 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).for my acedamic UEE module The CareHire app was developed as part of my coursework to demonstrate mobile application development skills using React Native and Expo.
+
+
 
 ## Get started
 
